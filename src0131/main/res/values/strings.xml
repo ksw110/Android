@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App0131</string>
+
+    <!--activity_main.xml-->
+    <string name="btn_red">레드</string>
+    <string name="btn_green">초록</string>
+    <string name="btn_blue">파랑</string>
+</resources>
